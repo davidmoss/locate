@@ -9,7 +9,7 @@ Modelling the various entities we can build a relational database of all the loc
 The API can then be exposed using Django Rest Framework (DRF) to allow listing, search and retrieval.
 
 ### Models
-Location - Country, City, Region, latitude and longitude
+Location - Country, City, Region, latitude and longitude (consider GEOS engine)
 Country - code, name
 City - code, name
 Region - code, name
