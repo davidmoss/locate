@@ -19,6 +19,7 @@ Initialise your virtual environment and install dependencies:
 ```
 $ pipenv install
 $ pipenv shell
+$ ./manage.py createsuperuser
 ```
 
 ## Usage
