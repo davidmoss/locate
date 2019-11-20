@@ -1,0 +1,4 @@
+1821261	Da Wan	Da Wan	Baia de Tai Van,Baía de Tai Van,Da Wan,Tai Van,da wan,大湾	22.12722	113.55028	H	BAY	MO		00				0		-9999	Asia/Macau	2012-01-18
+1821262	Ilha da Taipa	Ilha da Taipa	Dangzai Dao,I-li-mi,Ilha da Taipa,Ilha de Taipa,Kai Kiong,Tai Pa Island,Taipa,dang zi dao,氹仔島	22.15972	113.55944	T	ISL	MO		00				0		2	Asia/Macau	2012-01-18
+1821263	Taipa	Taipa	Dangzai,Lin-chia-ts'un,Lin-chia-ts’un,Taipa,Vila da Taipa,YFT,dang zi,氹仔	22.15583	113.55694	P	PPL	MO		01				0		5	Asia/Macau	2016-10-04
+1821264	Bacia Sul do Patane	Bacia Sul do Patane	Bacia Sul do Patane,Kuaiziji Nanwan,Pi-Tan-Ni-Nan Wan,South Basin,kuai zi ji nan wan,筷子基南湾	22.20528	113.5375	H	DCK	MO		00				0		0	Asia/Macau	2014-10-01
