@@ -38,3 +38,4 @@ $ pytest
 - Admin page to import in data from geonames
 - Admin page to view the locations
 - API to access the locations
+- Handle errors and add logs
