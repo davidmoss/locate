@@ -1,4 +1,4 @@
-# Locations
+# Locate
 App to manage and access the locations around the world
 
 ## Design
@@ -35,7 +35,7 @@ $ pytest
 ```
 
 ## TODO
-- Admin page to import in data from geonames
-- Admin page to view the locations
-- API to access the locations
-- Handle errors and add logs
+- Complete Admin page to import in data from geonames
+- Swap upload input to sync button to execute file retrieval in background celery tasks
+- Test API to access the locations
+- Handle errors and add logs and comments
