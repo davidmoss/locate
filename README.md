@@ -27,6 +27,8 @@ To run the application on http://localhost:8000:
 ```
 $ ./manage.py runserver
 ```
+Admin: http://localhost:8000/admin
+API: http://localhost:8000/locations
 
 ## Tests
 To run the tests:
